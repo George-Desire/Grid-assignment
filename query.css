@@ -1,0 +1,12 @@
+@media (max-width:38em) {
+    .testimonial-section {
+        display: flex;
+        flex-direction: column;
+        gap:10px;
+        background-color: orchid;
+        
+    }
+    .gallery-section{
+        display: none;
+    }
+}
